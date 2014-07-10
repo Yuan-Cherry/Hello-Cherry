@@ -1,4 +1,5 @@
 Hello-Cherry
 ============
 
-Cherry is tring git 
+Cherry is learning how to use git.
+This is the readme file for Hello-Cherry project
